@@ -1,4 +1,4 @@
-# Upset_Goose
+# Upset Goose
 Upset Goose is a game inspired by Angry Birds, where a furious goose aims to demolish the buildings and structures around it. Players must strategically navigate the goose through different levels, using its rage to topple obstacles, cause destruction, and outsmart the humans trying to maintain order. With each level presenting new challenges and targets, players must use their wits and the goose's chaotic nature to achieve high scores and complete objectives.
 
 <p align="center">
