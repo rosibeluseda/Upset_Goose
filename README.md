@@ -13,7 +13,7 @@ Upset Goose is a game inspired by Angry Birds, where a furious goose aims to dem
 - **Collision Detection:** Robust collision detection system for realistic interactions.
 - **Particle Effects:** Enhanced visual appeal with particle effects for explosions, and destruction.
 
-# Contributions
+## Contributions
 * Changed graphic assets of characters and buildings.
 * Added functionality to display damage in buildings
 * Added functionality to include an intro screen.
